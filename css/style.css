@@ -339,7 +339,7 @@ form .button__form{
   margin-top: 30px;
 }
 
-form .button__form:hover{
+.button__form:hover{
   background: #000;
   color: #fff;
   transition: all .4s ease;
