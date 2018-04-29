@@ -328,7 +328,7 @@ form .input__form{
 form .textarea__form{
   width: 750px;
 }
-form .button__form{
+.button__form{
   width: 200px;
   height: 40px;
   border: none;
